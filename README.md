@@ -6,6 +6,8 @@ This code was built from scratch and I created my own sprite atlas for a unique 
 
 Enjoy!
 
+<img width="640" alt="Bildschirmfoto 2023-09-29 um 11 28 43" src="https://github.com/smg-lab101/tower-defense/assets/119412353/3eed9ff4-7140-45f4-8afc-7e019e768c91">
+
 TO DO: 
 - improve path finding so there are no checks for move during runtime
 - add win-screen
