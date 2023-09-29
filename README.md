@@ -13,3 +13,5 @@ TO DO:
 - improve path finding so there are no checks for move during runtime
 - add win-screen
 - design new sprite atlas
+
+(note) I decided to leave comments at a minimum following a clean and understanding coding practice
