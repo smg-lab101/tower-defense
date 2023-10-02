@@ -13,4 +13,4 @@ TO DO:
 - add win-screen
 - design new sprite atlas
 
-(note) I decided to leave comments at a minimum following a clean and understanding coding practice
+(note) I decided to leave comments at a minimum following a clean and understandable coding practice
